@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lock50-shop.com/sitemap.xml
